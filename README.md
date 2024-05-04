@@ -1,1 +1,4 @@
 # Google_Scholar
+OZ2代码使用较为方便，OZ2使用XPATH进行提取关键信息，保存到CSV文件中
+修改时修改URL即可
+downloadFile2是读取CSV文件中的URL信息进行下载文件，但是存在的问题是不一定所有的文件都是PDF的，需要手动进行检查
